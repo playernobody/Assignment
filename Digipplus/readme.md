@@ -7,5 +7,5 @@ Version 2's output is business_details.xlsx
 
 
 
-[Link to Example Code](https://github.com/username/repository/blob/main/src/example.py)
-[Link to Example Code](src/example.py)
+[Version 1](https://github.com/playernobody/Assignment/blob/main/Digipplus/LocalInsightCatcher_v1.py)   output is [Version 1 Output](https://github.com/playernobody/Assignment/blob/main/Digipplus/gmb_data.xlsx)
+[Version 2](https://github.com/playernobody/Assignment/blob/main/Digipplus/LocalInsightCatcher_v2.py)  output is  [Version 2](https://github.com/playernobody/Assignment/blob/main/Digipplus/business_details.xlsx)
